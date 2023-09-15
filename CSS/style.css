@@ -21,14 +21,31 @@ width: 20%;
 
 }
 
+h1:hover{
 
+background-color: orange;
+
+}
+
+h2:hover{
+
+    background-color: orange;
+    
+    }
+
+    h3:hover{
+
+        background-color: orange;
+        
+        }
+    
 
 
 h1{
 
 color: #66BFBF;
 
-font-size: 50px;
+font-size: 35px;
 
 }
 
@@ -42,6 +59,41 @@ h3{
 
     color:white;
 }
+
+p:hover{
+
+    background-color: orange;
+}
+
+a:hover{
+
+background-color: orange;
+
+}
+
+th:hover{
+
+    background-color: orange;
+    
+    }
+
+    td:hover{
+
+        background-color: orange;
+        
+        }
+
+        label:hover{
+
+            background-color: orange;
+            
+            }
+
+            li:hover{
+
+                background-color: orange;
+                
+                }
 
 /* 
 img{
